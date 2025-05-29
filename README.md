@@ -9,6 +9,6 @@ The recipe pages must include a picture of the dish, it's necessery ingredients,
 
 Source for all recipes
 
-1- https://www.allrecipes.com/recipe/232720/broccoli-salad-with-red-grapes-bacon-and-sunflower-seeds/
-2- https://www.allrecipes.com/recipe/45641/roasted-rack-of-lamb/
-3- https://www.allrecipes.com/lemon-crumb-bars-recipe-8781116
+<p>1- https://www.allrecipes.com/recipe/232720/broccoli-salad-with-red-grapes-bacon-and-sunflower-seeds/</p>
+<p>2- https://www.allrecipes.com/recipe/45641/roasted-rack-of-lamb/</p>
+<p>3- https://www.allrecipes.com/lemon-crumb-bars-recipe-8781116</p>
